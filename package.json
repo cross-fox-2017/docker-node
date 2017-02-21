@@ -1,0 +1,22 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syanmil/docker-node.git"
+  },
+  "author": "Syanmil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syanmil/docker-node/issues"
+  },
+  "homepage": "https://github.com/Syanmil/docker-node#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
